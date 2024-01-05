@@ -1,4 +1,4 @@
-ming project]image
+![image](https://github.com/DockTrin/alx-low_level_programming/assets/99333109/af919a5a-3347-4017-8e2c-1a58459fed06)
 
 C PROGRAMMING 0x00. C - Hello, World
 Note: When doing this project, After using text editor of your choice to create and access the file on insert mode.Ensure the first line is always having #!/bin/bash, then the second line is having the correct command/answer.
